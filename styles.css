@@ -1,0 +1,18 @@
+body {
+    background-color:grey;
+    text-align: center;
+}
+
+h1 {
+    color: white;
+    font-size: 96px;
+}
+
+.grid {
+    display: grid;
+    width: 500px;
+    height: 500px;
+    background-color: white;
+    margin: auto;
+    margin-top: 16px;
+}
